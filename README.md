@@ -27,7 +27,7 @@ Repository Main Files
 * `settings.py` - Here you set the connections for databases, smtp servers etc..
 * `server.py` - Here you set the server for the application..
 
-Eequirements For the application
+Requirements For the application
 ================================
 * awesome-slugify==1.6.5
 * bottle==0.12.8
