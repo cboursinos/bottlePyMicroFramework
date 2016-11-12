@@ -18,4 +18,12 @@ This repository contains several directories.
 * `uploads/` - The upload folder for all files you wants to upload.
 * `views/` - The views of the application.
 
+Repository Main Files
+======================
+
+* `requirements.txt` - The requirements that need from the application to work
+* `router.py` - Here you set the routes for the controllers
+* `application.py` - Here you set for the application the hooks global files etc..
+* `settings.py` - Here you set the connections for databases, smtp servers etc..
+* `server.py` - Here you set the server for the application..
 
